@@ -2,8 +2,8 @@
 
 - ⚙  No momento não estou trabalhando
 - 📝 Estudando Javascript & React 
-- 📝 Cursando Ciencias da Computação
-- 📝 Técnico em Informática para Internet
+- 📝 Cursando Ciencias da Computação 👨‍💻
+- 📝 Técnico em Informática para Internet ✅
 
 
  <div>
