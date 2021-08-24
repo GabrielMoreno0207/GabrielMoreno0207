@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Gabriel Moreno
 
 - ⚙  No momento não estou trabalhando
-- 📝 Estudando Javascript & React 
 - 📝 Cursando Ciência Da Computação 👨‍💻
 - 📝 Técnico em Informática para Internet ✅
 - Perfil da Digital Innovation One:https://web.digitalinnovation.one/users/gabrielmfrontend?tab=achievements
