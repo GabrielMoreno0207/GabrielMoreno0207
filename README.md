@@ -27,4 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreno0207&show_icons=true&locale=en" alt="gabrielmoreno0207" /></p>
  
   
-![snake gif](https://github.com/GabrielMoreno0207/GabrielMoreno0207/blob/output/github-contribution-grid-snake.svg)
+
