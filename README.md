@@ -13,11 +13,7 @@
 <div align="center" class= "perfil">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrielmoreno0207&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielmoreno0207" /> </p>
 
-/*
-    <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="linkedin.com/in/gabriel-moreno-44b8a2218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/gabriel-moreno-44b8a2218" height="30" width="40" /></a>
-*/
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
