@@ -6,7 +6,11 @@
 📝 Internet Computer Technician
 👨‍💻My profile of digital innovation one:https://web.digitalinnovation.one/users/gabrielmfrontend?tab=achievements
 
-
+<style>
+    h3{
+        color: red;
+    }
+</style>
 
 
  
