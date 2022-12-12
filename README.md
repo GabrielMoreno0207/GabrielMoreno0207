@@ -1,16 +1,11 @@
     ### Hello!! I´m Gabriel Moreno
- <h3 align="center">Future Full Stack developer</h3>
+ <h3 align="center">Future developer</h3>
 
 - working as a Data Communication Technician
 📝 Studying Computer Science 👨‍💻
 📝 Internet Computer Technician
 👨‍💻My profile of digital innovation one:https://web.digitalinnovation.one/users/gabrielmfrontend?tab=achievements
 
-<style>
-    h3{
-        color: red;
-    }
-</style>
 
 
  
