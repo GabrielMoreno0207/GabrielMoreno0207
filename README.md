@@ -25,7 +25,7 @@
  </div>
  
  
- 
+ ![Snake animation](https://github.com/GabrielMoreno0207/GabrielMoreno0207/blob/output/github-contribution-grid-snake.svg)
   
-![snake gif](https://github.com/GabrielMoreno0207/GabrielMoreno0207/blob/output/github-contribution-grid-snake.svg)
+
 
