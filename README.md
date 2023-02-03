@@ -12,7 +12,7 @@
 <div align="center" class= "perfil">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrielmoreno0207&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielmoreno0207" /> </p>
 
-<p align="left">
+<p align="center">
 </p>
 <center>
 <h3 align="left">Languages and Tools:</h3>
