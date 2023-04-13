@@ -43,7 +43,7 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreno0207&layout=compact" alt="Top Languages" />
 
-  <img src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" alt="Maskeico animation" />
+  <img align="center" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" alt="Maskeico animation" />
 
   <img src="https://github.com/GabrielMoreno0207/GabrielMoreno0207/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
