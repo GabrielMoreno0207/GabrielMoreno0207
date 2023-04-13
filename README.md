@@ -39,17 +39,18 @@
   </a>
 </p>
 
-<p align="center">
-  
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreno0207&layout=compact" alt="Top Languages" />
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=gabrielmoreno0207&show_icons=true&locale=en" alt="Stats" />
- 
- 
-![Maskeico animation](https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif)
+<div align="center">
 
- ![Snake animation](https://github.com/GabrielMoreno0207/GabrielMoreno0207/blob/output/github-contribution-grid-snake.svg)
- 
-  </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreno0207&layout=compact" alt="Top Languages" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreno0207&show_icons=true&locale=en" alt="Stats" />
+
+  <img src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" alt="Maskeico animation" />
+
+  <img src="https://github.com/GabrielMoreno0207/GabrielMoreno0207/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
   
 
   
