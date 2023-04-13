@@ -43,7 +43,7 @@
   
   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreno0207&layout=compact" alt="Top Languages" />
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=gabrielmoreno0207&show_icons=true&locale=en" alt="Stats" />
-  ![MASKEICOOO](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+  https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif
  
 
 
