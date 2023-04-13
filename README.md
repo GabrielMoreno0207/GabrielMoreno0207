@@ -40,10 +40,10 @@
 </p>
 
 <p align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreno0207&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreno0207&layout=compact)</p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreno0207&show_icons=true&locale=en" alt="gabrielmoreno0207" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreno0207&show_icons=true&locale=en" alt="gabrielmoreno0207" /></p>
  </div>
  
  
