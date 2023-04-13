@@ -47,7 +47,7 @@
  
  
  
- ![Snake animation](https://github.com/GabrielMoreno0207/GabrielMoreno0207/blob/output/github-contribution-grid-snake.svg)
+  <p align= "center">![Snake animation](https://github.com/GabrielMoreno0207/GabrielMoreno0207/blob/output/github-contribution-grid-snake.svg)</p>
   
   
   
