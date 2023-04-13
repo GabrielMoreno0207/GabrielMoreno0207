@@ -28,5 +28,7 @@
  
  ![Snake animation](https://github.com/GabrielMoreno0207/GabrielMoreno0207/blob/output/github-contribution-grid-snake.svg)
   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreno0207&layout=compact)
+
 
 </p>
