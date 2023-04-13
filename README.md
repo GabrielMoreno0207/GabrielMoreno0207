@@ -1,8 +1,8 @@
 <h3 align="center">Hello!! I'm Gabriel Moreno</h3>
 
-- Working as a Data Communication Technician
-- Studying Computer Science 👨‍💻
-- Internet Computer Technician
+                                                            - Working as a Data Communication Technician
+                                                            - Studying Computer Science 👨‍💻
+                                                            - Internet Computer Technician
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -51,8 +51,6 @@
   
   
   
-  //<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreno0207&layout=compact" alt="Top Languages" />
-  //<img align="right" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreno0207&show_icons=true&locale=en" alt="Stats" />
 
   
   
