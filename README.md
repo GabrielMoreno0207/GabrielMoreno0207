@@ -51,7 +51,7 @@
 
   
 
-  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmoreno0207&show_icons=true&locale=en&layout=compact" alt="gabrielmoreno0207" /></p>
   
   
   
