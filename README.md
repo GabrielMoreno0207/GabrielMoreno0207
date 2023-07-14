@@ -45,7 +45,7 @@
 
   <img align="center" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" alt="Maskeico animation" />
 
-  <img src="https://github.com/antoniomalheirs/antoniomalheirs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/GabrielMoreno0207/GabrielMoreno0207/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
