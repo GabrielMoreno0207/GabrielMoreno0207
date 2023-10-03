@@ -3,6 +3,7 @@
                                                         - Working as a Data Communication Technician
                                                         - Studying Computer Science 👨‍💻
                                                         - Internet Computer Technician
+                                                        - UX/UI and Developer
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 <h3 align="center">Connect with me:</h3>
