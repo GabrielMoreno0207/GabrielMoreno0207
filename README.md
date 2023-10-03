@@ -4,7 +4,7 @@
                                                         - Studying Computer Science 👨‍💻
                                                         - Internet Computer Technician
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-morenodev/" target="_blank">
