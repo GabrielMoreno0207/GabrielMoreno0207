@@ -20,7 +20,7 @@
 
 <div align="center">
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmoreno0207&show_icons=true&locale=en&layout=compact" alt="gabrielmoreno0207" />
+/>
 
   <img align="center" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" alt="Maskeico animation" />
 
