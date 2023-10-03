@@ -4,6 +4,7 @@
                                                         - Studying Computer Science 👨‍💻
                                                         - Internet Computer Technician
 
+![](./profile-3d-contrib/profile-night-green.svg)
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-morenodev/" target="_blank">
@@ -46,7 +47,7 @@
   <img align="center" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" alt="Maskeico animation" />
 
  
-![](./profile-3d-contrib/profile-night-green.svg)
+
 </div>
 
   
