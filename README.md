@@ -1,7 +1,7 @@
 <h3 align="center">Hello!! I'm Gabriel Moreno</h3>
 
                                                         - Working as a Data Communication Technician
-                                                        - Studying Computer Science 👨‍💻
+                                                        - Computer Science 👨‍💻
                                                         - Internet Computer Technician
                                                         - UX/UI and Developer
 
