@@ -15,8 +15,15 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
+
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,wordpress,xd,figma,ps,vscode,postman,mongodb,flutter,dart,firebase,java,git,github,bootstrap)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,tailwind,js,react,nodejs,wordpress,bootstrap,xd,figma,ps,vscode,postman,mongodb,flutter,dart,firebase,java,,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+
+
 
 
 <div align="center">
