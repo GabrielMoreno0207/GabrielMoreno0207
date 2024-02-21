@@ -5,14 +5,7 @@
     <h1 style="font-size: 36px; font-weight: bold; padding: 20px 0;">Dev Frontend | UX/UI Designer | Dev Mobile</h1>
     <p style="font-size: 24px; font-weight: bold; color: #777777;">Transformando suas ideias em realidade!</p>
   
-</div>
-
-
-
-                                                        - Working as a Data Communication Technician
-                                                        - Computer Science 👨‍💻
-                                                        - Internet Computer Technician
-                                                        - UX/UI and Developer
+</div>   
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 <h3 align="center">Connect with me:</h3>
