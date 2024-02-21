@@ -1,4 +1,5 @@
-<h3 align="center">Hello!! I'm Gabriel Moreno</h3>
+<h3 align="center" style="border: 2px solid green; padding: 10px;">Hello!! I'm Gabriel Moreno</h3>
+
 
                                                         - Working as a Data Communication Technician
                                                         - Computer Science 👨‍💻
