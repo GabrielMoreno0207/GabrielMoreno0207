@@ -1,4 +1,4 @@
-<div style="border: 1px solid #e0e0e0; padding: 20px; border-radius: 8px;">
+<div style="border: 6px solid #007BFF; padding: 20px; border-radius: 8px;">
 
 
 <div align="center">
