@@ -1,3 +1,4 @@
+<div style="border: 1px solid #e0e0e0; padding: 20px; border-radius: 8px;">
 
 
 <div align="center">
@@ -37,6 +38,10 @@
  
 
 </div>
+
+</div>
+
+
 
 
   
