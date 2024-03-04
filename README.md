@@ -33,7 +33,7 @@
 
 
 
-  <img align="center" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" alt="Maskeico animation" />
+ 
 
  
 
