@@ -1,7 +1,7 @@
 <div align="center">
-    <p style="font-size: 20px; font-weight: bold; color: #cccccc;">Salve! Eu sou o Gabriel</p>
+    <h2 style="font-size: 20px; font-weight: bold; color: #cccccc;">Salve! Eu sou o Gabriel</h2>
     <h1 style="font-size: 36px; font-weight: bold; padding: 20px 0;">Dev Frontend | UX/UI Designer | Dev Mobile</h1>
-    <p style="font-size: 24px; font-weight: bold; color: #777777;">Transformando suas ideias em realidade!</p>
+    
   
 </div>   
 
