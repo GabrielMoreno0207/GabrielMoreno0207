@@ -1,0 +1,8 @@
+# O fluxo diario (dados + heatmap + cartao) usa SO a biblioteca padrao do Python.
+# O que esta aqui serve pro cartao de ASCII, que voce gera uma vez na mao.
+pillow>=10.0
+numpy>=1.26
+opencv-python-headless>=4.9      # clean_art.py e prep_photo.py
+# so pra recortar o fundo de FOTO (download grande, ~400 MB):
+# rembg>=2.0
+# onnxruntime>=1.20

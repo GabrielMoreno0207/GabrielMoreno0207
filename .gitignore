@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+_src/
+_test/
+source-prepped.png
+
+# fotos soltas na raiz nao entram; a arte usada fica em art/
+/*.png
+/*.jpg
+/*.jpeg

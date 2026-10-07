@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="880" viewBox="0 0 840 880" role="img" aria-label="Cartao de perfil de Gabriel Moreno">
+<style>
+    @keyframes rise{from{opacity:0;transform:translateX(-14px)} to{opacity:1;transform:translateX(0)}}
+    @keyframes blink{0%,49%{opacity:1} 50%,100%{opacity:0}}
+    .ln{opacity:0;animation:rise .5s ease-out forwards}
+    .car{animation:blink 1s step-end infinite}
+     .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace}.ttl{font-size:24px;fill:#8b949e}.name{font-size:46px;font-weight:700;fill:#39d353}.head{font-size:22px;fill:#8b949e}.k{font-size:25px;font-weight:700}.v{font-size:25px;fill:#c9d1d9}.num{font-size:44px;font-weight:700;fill:#c9d1d9}.cap{font-size:19px;fill:#8b949e}.foot{font-size:18px;fill:#8b949e}</style>
+<rect x="2" y="2" width="836" height="876" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<path d="M2 20a18 18 0 0 1 18-18h800 a18 18 0 0 1 18 18v36H2z" fill="#010409"/>
+<line x1="2" y1="56" x2="838" y2="56" stroke="#30363d" stroke-width="2"/>
+<circle cx="34" cy="29" r="9" fill="#ff5f56"/>
+<circle cx="66" cy="29" r="9" fill="#ffbd2e"/>
+<circle cx="98" cy="29" r="9" fill="#27c93f"/>
+<text class="mono ttl" x="152" y="38">gabriel@github: ~ $ neofetch</text>
+<text class="mono name ln" x="44" y="126" style="animation-delay:0.34s">Gabriel Moreno</text>
+<text class="mono head ln" x="44" y="164" style="animation-delay:0.42s">Data Communication Analyst &amp; Developer</text>
+<text class="mono head ln" x="44" y="200" style="animation-delay:0.51s">----------------------------------------------</text>
+<g class="ln" style="animation-delay:0.59s">
+<text class="mono k" x="44" y="244" fill="#39d353">Age</text>
+<text class="mono v" x="190" y="244">25</text>
+</g>
+<g class="ln" style="animation-delay:0.68s">
+<text class="mono k" x="44" y="286" fill="#56d4dd">From</text>
+<text class="mono v" x="190" y="286">Osvaldo Cruz - SP, Brazil</text>
+</g>
+<g class="ln" style="animation-delay:0.76s">
+<text class="mono k" x="44" y="328" fill="#56d4dd">Role</text>
+<text class="mono v" x="190" y="328">Data Communication Analyst &amp; Dev</text>
+</g>
+<g class="ln" style="animation-delay:0.85s">
+<text class="mono k" x="44" y="370" fill="#bc8cff">Study</text>
+<text class="mono v" x="190" y="370">Postgrad in Data Science &amp; Big Data</text>
+</g>
+<g class="ln" style="animation-delay:0.93s">
+<text class="mono k" x="44" y="412" fill="#e3b341">Data</text>
+<text class="mono v" x="190" y="412">Python - R - SQL - Power BI - ML</text>
+</g>
+<g class="ln" style="animation-delay:1.02s">
+<text class="mono k" x="44" y="454" fill="#e3b341">Web</text>
+<text class="mono v" x="190" y="454">React - Tailwind - Node.js</text>
+</g>
+<g class="ln" style="animation-delay:1.10s">
+<text class="mono k" x="44" y="496" fill="#bc8cff">Next</text>
+<text class="mono v" x="190" y="496">Data Scientist - Full Stack</text>
+</g>
+<g class="ln" style="animation-delay:1.19s">
+<text class="mono k" x="44" y="538" fill="#8b949e">AFK</text>
+<text class="mono v" x="190" y="538">gaming</text>
+</g>
+<line x1="44" y1="586" x2="796" y2="586" stroke="#30363d" stroke-width="2" class="ln" style="animation-delay:1.27s"/>
+<g class="ln" style="animation-delay:1.35s">
+<text class="mono num" x="44" y="626" fill="#39d353">196</text>
+<text class="mono cap" x="44" y="652">contributions (1y)</text>
+</g>
+<g class="ln" style="animation-delay:1.44s">
+<text class="mono num" x="444" y="626" fill="#56d4dd">0</text>
+<text class="mono cap" x="444" y="652">current streak (days)</text>
+</g>
+<g class="ln" style="animation-delay:1.53s">
+<text class="mono num" x="44" y="712" fill="#bc8cff">7</text>
+<text class="mono cap" x="44" y="738">longest streak</text>
+</g>
+<g class="ln" style="animation-delay:1.61s">
+<text class="mono num" x="444" y="712" fill="#e3b341">59</text>
+<text class="mono cap" x="444" y="738">days with commits</text>
+</g>
+<g class="ln" style="animation-delay:1.70s">
+<text class="mono num" x="44" y="798" fill="#ff7b72">21</text>
+<text class="mono cap" x="44" y="824">best day (21/09)</text>
+</g>
+<g class="ln" style="animation-delay:1.78s">
+<text class="mono num" x="444" y="798" fill="#c9d1d9">3.3</text>
+<text class="mono cap" x="444" y="824">avg / active day</text>
+</g>
+<text class="mono foot ln" x="44" y="856" style="animation-delay:1.87s">updated 07/10/2026 - built by GitHub Actions</text>
+<rect class="car" x="525" y="840" width="11" height="20" fill="#39d353"/>
+</svg>
