@@ -49,7 +49,7 @@
 </g>
 <line x1="44" y1="586" x2="796" y2="586" stroke="#30363d" stroke-width="2" class="ln" style="animation-delay:1.27s"/>
 <g class="ln" style="animation-delay:1.35s">
-<text class="mono num" x="44" y="626" fill="#39d353">204</text>
+<text class="mono num" x="44" y="626" fill="#39d353">205</text>
 <text class="mono cap" x="44" y="652">contributions (1y)</text>
 </g>
 <g class="ln" style="animation-delay:1.44s">
@@ -69,9 +69,9 @@
 <text class="mono cap" x="44" y="824">best day (21/09)</text>
 </g>
 <g class="ln" style="animation-delay:1.78s">
-<text class="mono num" x="444" y="798" fill="#c9d1d9">3.3</text>
+<text class="mono num" x="444" y="798" fill="#c9d1d9">3.4</text>
 <text class="mono cap" x="444" y="824">avg / active day</text>
 </g>
-<text class="mono foot ln" x="44" y="856" style="animation-delay:1.87s">updated 08/10/2026 - built by GitHub Actions</text>
+<text class="mono foot ln" x="44" y="856" style="animation-delay:1.87s">updated 09/10/2026 - built by GitHub Actions</text>
 <rect class="car" x="525" y="840" width="11" height="20" fill="#39d353"/>
 </svg>
