@@ -29,10 +29,7 @@
 
 <h3><code>gabriel@github ~ $ ./links.sh</code></h3>
 
-<p><b>Data Communication Analyst &amp; Developer</b> · Osvaldo Cruz, SP 🇧🇷</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--morenodev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-morenodev/)
-[![Email](https://img.shields.io/badge/Email-gabrielmfrontend%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gabrielmfrontend@hotmail.com)
+<img src="./badge.svg" width="420" alt="Badge do Gabriel Moreno — Data Communication Analyst & Developer, Osvaldo Cruz/SP, LinkedIn gabriel-morenodev, gabrielmfrontend@hotmail.com" />
 
 <br>
 
