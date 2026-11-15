@@ -1,46 +1,11 @@
 {
  "user": "GabrielMoreno0207",
- "generated_at": "2026-11-14T13:34:57+00:00",
+ "generated_at": "2026-11-15T13:58:15+00:00",
  "range": {
-  "from": "2025-11-09",
-  "to": "2026-11-14"
+  "from": "2025-11-16",
+  "to": "2026-11-15"
  },
  "days": [
-  {
-   "date": "2025-11-09",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-10",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-11",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-12",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-13",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-14",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-15",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-11-16",
    "count": 0,
@@ -1858,21 +1823,26 @@
   },
   {
    "date": "2026-11-14",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-11-15",
    "count": 0,
    "level": 0
   }
  ],
  "stats": {
-  "total": 278,
-  "active_days": 97,
+  "total": 279,
+  "active_days": 98,
   "max_level": 4,
   "best_day": {
    "date": "2026-09-21",
    "count": 21
   },
-  "current_streak": 38,
-  "longest_streak": 38,
-  "avg_per_active_day": 2.9
+  "current_streak": 39,
+  "longest_streak": 39,
+  "avg_per_active_day": 2.8
  },
  "months": {
   "2025-11": 0,
@@ -1887,6 +1857,6 @@
   "2026-08": 9,
   "2026-09": 66,
   "2026-10": 63,
-  "2026-11": 22
+  "2026-11": 23
  }
 }
